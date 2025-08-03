@@ -1,4 +1,4 @@
-Cerinte de continut: 
+## Cerinte de continut: 
 - Pagina de gardă 
 - Curpins
 - Introducere: 1-2 pag (prezentați modul în care abordați tema și ceea ce urmează să studiați în lucrare);
